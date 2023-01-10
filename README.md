@@ -1,6 +1,6 @@
 # Pemrograman-Visual
 
-** Create Procedure Table Lowongan **
+**Create Procedure Table Lowongan**
 
 CREATE PROCEDURE sp_usrdef_lowongan_list 
     @Search varchar(100) = ''
