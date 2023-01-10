@@ -1,4 +1,5 @@
 **Create procedure lowongan**
+
 CREATE PROCEDURE sp_usrdef_lowongan_list 
     @Search varchar(100) = ''
 AS 
